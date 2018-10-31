@@ -1,5 +1,5 @@
 ---
-title: Dataframe Manipulation with dplyr
+title: "Supplemental: Dataframe Manipulation with dplyr"
 teaching: 40
 exercises: 15
 questions:
