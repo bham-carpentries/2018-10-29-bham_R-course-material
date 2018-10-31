@@ -1,5 +1,5 @@
 ---
-title: Writing Data
+title: "Supplemental: Writing Data"
 teaching: 10
 exercises: 10
 questions:
