@@ -1,5 +1,5 @@
 ---
-title: Writing Good Software
+title: "Supplemental: Writing Good Software"
 teaching: 15
 exercises: 0
 questions:
