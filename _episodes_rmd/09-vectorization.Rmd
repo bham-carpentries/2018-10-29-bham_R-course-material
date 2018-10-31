@@ -1,5 +1,5 @@
 ---
-title: Vectorization
+title: "Supplemental: Vectorization"
 teaching: 10
 exercises: 15
 questions:
